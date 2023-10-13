@@ -12,4 +12,3 @@ def longeststring(s):
     return max_length
 
 print(longeststring('abcabcbb'))
-    
